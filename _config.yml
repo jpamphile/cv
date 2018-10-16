@@ -4,7 +4,7 @@ description:        "Computer Science Student"
 
 # Site URL settings
 url:                https://jpamphile.github.io # main url
-baseurl:            /resume # for gh-pages
+baseurl:            /cv # for gh-pages
 
 # Google Analytics ID
 google_analytics_code: 
