@@ -38,13 +38,13 @@ code {
   font-family: Consolas, monaco, monospace;
 }
 
-.resume-title {
+.cv-title {
   text-align: center;
   color: #ddd;
   margin: 0 0 60px 0;
 }
 
-#resume {
+#cv {
   margin: 80px auto;
   max-width: 800px;
   padding: 80px;
@@ -159,7 +159,7 @@ code {
   body {
     background: #fff;
   }
-  #resume {
+  #cv {
     margin: 0 auto;
   }
 }
@@ -169,10 +169,10 @@ code {
     margin: 0;
     font-size: 14px;
   }
-  .resume-title {
+  .cv-title {
     font-size: 60px;
   }
-  #resume {
+  #cv {
     margin: 0 auto;
     max-width: 800px;
     padding: 0.5em 1em;
@@ -207,7 +207,7 @@ code {
 }
 
 @media print {
-  #resume {
+  #cv {
     margin: 0 auto;
     max-width: 800px;
     padding: 0px 0px;
