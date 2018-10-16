@@ -1,5 +1,5 @@
 # Basic site info
-title:              " "
+title:              "Jean Pamphile"
 description:        "Computer Science Student"
 
 # Site URL settings
@@ -14,7 +14,7 @@ source:             ./
 destination:        ./_site
 markdown:           kramdown
 highlighter:        rouge
-timezone:           New York
+timezone:           America/New_York
 exclude:            ["README.md", "LICENSE.md", "CHANGELOG.md"]
 
 # Site configurations
